@@ -4,3 +4,8 @@ language = "nl"
 multilingual = false
 src = "src"
 title = "Abacus Gebruikersdocumentatie"
+
+[output.html]
+git-repository-url = "https://github.com/praseodym/abacus-documentatie/tree/main"
+edit-url-template = "https://github.com/praseodym/abacus-documentatie/tree/main/{path}"
+hash-files = true
