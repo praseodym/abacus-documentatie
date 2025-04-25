@@ -1,0 +1,6 @@
+[book]
+authors = ["Mark Janssen"]
+language = "nl"
+multilingual = false
+src = "src"
+title = "Abacus Gebruikersdocumentatie"
