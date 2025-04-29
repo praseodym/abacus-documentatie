@@ -62,7 +62,6 @@ De kortere versie van deze opdracht is:
 
 ```sh
 start path\to\binary\abacus-windows-[version].exe -rs
-
 ```
 
 Zie ook de [help](#help).
