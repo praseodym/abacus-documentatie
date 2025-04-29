@@ -162,4 +162,4 @@ Voor meer informatie over onze werkwijzen kun je de volgende links bekijken:
 
 ## Feedback
 
-Feedback is meer dan welkom! Heb je iets gezien of gewoon een vraag, stuur dan een mail naar abacus[@]kiesraad.nl. Zie de [readme](/README.md) op de hoofdpagina van deze repository voor meer informatie over hoe je kunt bijdragen.
+Feedback is meer dan welkom! Heb je iets gezien of gewoon een vraag, stuur dan een mail naar abacus[@]kiesraad.nl. Zie de [readme](https://github.com/kiesraad/abacus/blob/main/README.md) op de hoofdpagina van deze repository voor meer informatie over hoe je kunt bijdragen.
